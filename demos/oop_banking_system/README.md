@@ -17,7 +17,7 @@ This project is a simple banking system that demonstrates the core concepts of O
 ### How to Run
 1. Clone the repository:
 ```bash
-
+git clone https://github.com/ByteBigBoss/cpp-mstr.git
 ```
 
 2. Navigate to the project directory:
