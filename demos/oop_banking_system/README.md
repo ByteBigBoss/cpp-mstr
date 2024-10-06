@@ -23,7 +23,7 @@ git clone https://github.com/ByteBigBoss/cpp-mstr.git
 2. Navigate to the project directory:
 
 ```bash
-cd cpp-oop-banking-system
+cd cpp-mstr
 ```
 
 3. Compile and run the project:
@@ -33,4 +33,4 @@ g++ demos/oop_banking_system/bnsys.cpp -o banking_system
 
 
 ### Project Structure
-- `main.cpp`: Contains the implementation of the banking system using OOP principles.
+- `bnsys.cpp`: Contains the implementation of the banking system using OOP principles.
