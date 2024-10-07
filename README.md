@@ -74,7 +74,7 @@ return 0;
 ```
  **Step 2: Compile and Run:**
 
-1.  Open  `helloworld.cpp`  so that it is the active file.
+1.  Open  `main.cpp`  so that it is the active file.
     
 2.  Press the play button in the top right corner of the editor.
 
