@@ -60,8 +60,8 @@ If installed properly, the terminal should show the GCC version. If not, check i
 
  **Step 1: Write a Simple "Hello, World!" Program** in `main.cpp`:
 
-```cpp#include <iostream>
-
+```cpp
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -70,7 +70,7 @@ cout << "Hello, World!" << endl;
 
 return 0;
 
-}`
+}
 ```
  **Step 2: Compile and Run:**
 
