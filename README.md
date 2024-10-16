@@ -8,7 +8,7 @@
 
 **Capabilities**: Object-oriented with manual memory management, templates.
 
-- - 
+---
 
 ##  **Environment Setup in VS Code:**
 
