@@ -60,8 +60,8 @@ If installed properly, the terminal should show the GCC version. If not, check i
 
  **Step 1: Write a Simple "Hello, World!" Program** in `main.cpp`:
 
-```cpp#include <iostream>
-
+```cpp
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -70,11 +70,11 @@ cout << "Hello, World!" << endl;
 
 return 0;
 
-}`
+}
 ```
  **Step 2: Compile and Run:**
 
-1.  Open  `helloworld.cpp`  so that it is the active file.
+1.  Open  `main.cpp`  so that it is the active file.
     
 2.  Press the play button in the top right corner of the editor.
 
