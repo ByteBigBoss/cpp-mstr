@@ -1,7 +1,18 @@
-####  **Environment Setup in VS Code:**
+## C++
+
+**Used For**: System software, game engines, real-time simulations.
+
+**Systems Built With It**: Unreal Engine, Chrome browser, Adobe Systems.
+
+**When to Use**: Performance-critical applications, low-level system access.
+
+**Capabilities**: Object-oriented with manual memory management, templates.
+
+- - 
+
+##  **Environment Setup in VS Code:**
 
   
-
 1.  **Install C++ Compiler:**
 
  - For **Windows**, install **MinGW** (Minimalist GNU for Windows).
